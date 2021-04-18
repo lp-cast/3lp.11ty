@@ -21,6 +21,12 @@ tags: episode
   [Spotify](https://open.spotify.com/track/ID),
   [Tidal](https://tidal.com/browse/album/ID),
   [Discogs](https://www.discogs.com/master/ID)
+- Альбом «Half the World Is Watching Me» в
+  [Apple Music](https://music.apple.com/album/1517906521),
+  [Яндекс.Музыке](https://music.yandex.ru/album/ID),
+  [Spotify](https://open.spotify.com/track/ID),
+  [Tidal](https://tidal.com/browse/album/ID),
+  [Discogs](https://www.discogs.com/master/ID)
 
 ### Песни
 

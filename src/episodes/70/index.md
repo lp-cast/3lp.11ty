@@ -37,4 +37,4 @@ tags: episode
 Все права на музыку принадлежат законным правообладателям.
 Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
 Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
-Фотография на обложке — [COVER](LINK).
+Фотография на обложке — [Jason Pan](https://unsplash.com/photos/G5ha9sdk6NQ).

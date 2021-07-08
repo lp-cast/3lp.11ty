@@ -15,18 +15,17 @@ tags: episode
 
 ### Mew — A Triumph for Man
 
-- Альбом «A Triumph for Man» в
+- Mew, альбом «A Triumph for Man» в
   [Apple Music](https://music.apple.com/album/1517893794),
-  [Яндекс.Музыке](https://music.yandex.ru/album/ID),
-  [Spotify](https://open.spotify.com/track/ID),
-  [Tidal](https://tidal.com/browse/album/ID),
-  [Discogs](https://www.discogs.com/master/ID)
-- Альбом «Half the World Is Watching Me» в
+  [Spotify](https://open.spotify.com/album/2IUDqEOG2pgxr5hA2zYMTt),
+  [Tidal](https://tidal.com/browse/album/18390678),
+  [Discogs](https://www.discogs.com/Mew-A-Triumph-For-Man/master/191683)
+- Mew, альбом «Half the World Is Watching Me» в
   [Apple Music](https://music.apple.com/album/1517906521),
-  [Яндекс.Музыке](https://music.yandex.ru/album/ID),
-  [Spotify](https://open.spotify.com/track/ID),
-  [Tidal](https://tidal.com/browse/album/ID),
-  [Discogs](https://www.discogs.com/master/ID)
+  [Яндекс.Музыке](https://music.yandex.ru/translate/track/29104266),
+  [Spotify](https://open.spotify.com/album/6BVm0D0FzC8OWQVdDNuEsT),
+  [Tidal](https://tidal.com/browse/artist/2139),
+  [Discogs](https://www.discogs.com/Mew-Half-The-World-Is-Watching-Me/master/214720)
 
 ### Песни
 
